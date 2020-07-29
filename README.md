@@ -1,8 +1,12 @@
 ### Hi there 👋
 
+__*Welcome to my github profile*__  
+
+I write blogs and contribute to open source which i am familier.  
+I have a passion for learning and sharing my knowledge with others a public as possible.  
+
 <!--
 **hemanth22/hemanth22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
