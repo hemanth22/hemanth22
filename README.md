@@ -31,7 +31,7 @@ __*Devops tools*__
 <code><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/powershell.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/kubernetes_logo.png"></code>
 
-__*Coding Langauages:*__  
+__*Coding language:*__  
 
 <code><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/Python.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/csharp.png"></code>
