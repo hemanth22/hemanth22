@@ -1,6 +1,19 @@
-### Hi there 👋
+### Hi I'm Hemanth BITRA 👋
 
 __*Welcome to my github profile*__  
+
+
+
+
+<a href="https://hemanth22hemublogs.blogspot.com/">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Hemanth B's Wordpress Profile" height="30" width="30">
+</a>
+<a href="https://hemanth22hemu.wordpress.com/">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Hemanth B's Wordpress Profile" height="30" width="30">
+</a>
+<a href="https://dev.to/hemanth22">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Hemanth B's DEV Profile" height="30" width="30">
+</a>
 
 <!--
 **hemanth22/hemanth22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
