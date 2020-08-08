@@ -12,7 +12,7 @@ __*Welcome to my github profile*__
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Hemanth B's DEV Profile" height="30" width="30">
 </a>
 <a href="https://in.linkedin.com/in/hemanthbitra">
-  <img alt="Hemanth Bitra LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img alt="Hemanth Bitra LinkdeIN" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <!--
