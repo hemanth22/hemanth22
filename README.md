@@ -40,16 +40,16 @@ __*Devops tools*__
 <a href="https://dev.to/hemanth22"><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/jenkins.png"></a>
 <a href="https://hub.docker.com/u/bitroid"><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/docker.png"></a>
 <a href="https://galaxy.ansible.com/hemanth22"><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/ansiblesss.png"></a>
-<code><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/Vagrant.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/kibana.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/elasticsearch.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/powershell.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/kubernetes_logo.png"></code>
+<a href="https://dev.to/hemanth22"><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/Vagrant.png"></a>
+<a href="https://dev.to/hemanth22"><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/kibana.png"></a>
+<a href="https://dev.to/hemanth22"><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/elasticsearch.png"></a>
+<a href="https://dev.to/hemanth22"><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/powershell.png"></a>
+<a href="https://dev.to/hemanth22"><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/kubernetes_logo.png"></a>
 
 __*Coding language:*__  
 
-<code><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/Python.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/csharp.png"></code>
+<a href="https://dev.to/hemanth22"><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/Python.png"></a>
+<a href="https://dev.to/hemanth22"><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/csharp.png"></a>
 
 
 
