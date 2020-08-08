@@ -11,6 +11,9 @@ __*Welcome to my github profile*__
 <a href="https://dev.to/hemanth22">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Hemanth B's DEV Profile" height="30" width="30">
 </a>
+<a href="https://in.linkedin.com/in/hemanthbitra">
+  <img alt="Hemanth Bitra LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 <!--
 **hemanth22/hemanth22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
