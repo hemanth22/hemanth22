@@ -15,6 +15,7 @@ __*Welcome to my github profile*__
   <img alt="Hemanth Bitra LinkdeIN" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
+
 <!--
 **hemanth22/hemanth22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -27,10 +28,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->  
+
 - 🌱 I’m currently learning open source technologies
 - 🔭 Working in __*Societe Generale Global Solution Center*__
-- 📫 How to reach me: hemanthbitra@live.com
+- 📫 How to reach me: hemanthbitra@live.com  
 
 __*Devops tools*__  
 
