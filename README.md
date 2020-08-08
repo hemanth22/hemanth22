@@ -36,10 +36,10 @@ Here are some ideas to get you started:
 
 __*Devops tools*__  
 
-<code><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/bash.jpg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/jenkins.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/docker.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/ansiblesss.png"></code>
+<a href="https://dev.to/hemanth22"><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/bash.jpg"></a>
+<a href="https://dev.to/hemanth22"><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/jenkins.png"></a>
+<a href="https://hub.docker.com/u/bitroid"><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/docker.png"></a>
+<a href="https://galaxy.ansible.com/hemanth22"><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/ansiblesss.png"></a>
 <code><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/Vagrant.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/kibana.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/elasticsearch.png"></code>
