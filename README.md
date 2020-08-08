@@ -3,10 +3,10 @@
 __*Welcome to my github profile*__  
 
 <a href="https://hemanth22hemublogs.blogspot.com/">
-  <img src="https://raw.githubusercontent.com/hemanth22/Images/master/blogger.png" alt="Hemanth B's blogger Profile" height="30" width="30">
+  <img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" alt="Hemanth B's blogger Profile"/>
 </a>
 <a href="https://hemanth22hemu.wordpress.com/">
-  <img src="https://raw.githubusercontent.com/hemanth22/Images/master/wordpress.png" alt="Hemanth B's Wordpress Profile" height="30" width="30">
+  <img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" alt="Hemanth B's Wordpress Profile"/>
 </a>
 <a href="https://dev.to/hemanth22">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Hemanth B's DEV Profile" height="30" width="30">
