@@ -2,14 +2,11 @@
 
 __*Welcome to my github profile*__  
 
-
-
-
 <a href="https://hemanth22hemublogs.blogspot.com/">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Hemanth B's Wordpress Profile" height="30" width="30">
+  <img src="https://raw.githubusercontent.com/hemanth22/Images/master/blogger.png" alt="Hemanth B's blogger Profile" height="30" width="30">
 </a>
 <a href="https://hemanth22hemu.wordpress.com/">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Hemanth B's Wordpress Profile" height="30" width="30">
+  <img src="https://raw.githubusercontent.com/hemanth22/Images/master/wordpress.png" alt="Hemanth B's Wordpress Profile" height="30" width="30">
 </a>
 <a href="https://dev.to/hemanth22">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Hemanth B's DEV Profile" height="30" width="30">
