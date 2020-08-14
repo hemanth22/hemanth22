@@ -53,6 +53,9 @@ __*Coding language:*__
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 ![Hemanth BITRA github stats](https://github-readme-stats.vercel.app/api?username=hemanth22&show_icons=true&hide_border=true)
