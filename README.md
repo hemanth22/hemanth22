@@ -51,6 +51,8 @@ __*Coding language:*__
 <a href="https://dev.to/hemanth22"><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/Python.png"></a>
 <a href="https://dev.to/hemanth22"><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/csharp.png"></a>
 
-
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ![Hemanth BITRA github stats](https://github-readme-stats.vercel.app/api?username=hemanth22&show_icons=true&hide_border=true)
