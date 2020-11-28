@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 __*Devops tools*__  
 
 <a href="https://dev.to/hemanth22"><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/bash.jpg"></a>
-<a href="http://ec2-54-202-44-67.us-west-2.compute.amazonaws.com/"><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/jenkins.png"></a>
+<a href="http://ec2-18-236-236-207.us-west-2.compute.amazonaws.com/"><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/jenkins.png"></a>
 <a href="https://hub.docker.com/u/bitroid"><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/docker.png"></a>
 <a href="https://galaxy.ansible.com/hemanth22"><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/ansiblesss.png"></a>
 <a href="https://dev.to/hemanth22"><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/Vagrant.png"></a>
