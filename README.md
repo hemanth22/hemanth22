@@ -55,9 +55,7 @@ __*Coding language:*__
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanth22&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanth22&hide=ruby,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemanth22&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
-![Hemanth BITRA github stats](https://github-readme-stats.vercel.app/api?username=hemanth22&show_icons=true&hide_border=true)
