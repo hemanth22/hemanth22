@@ -51,11 +51,13 @@ __*Coding language:*__
 <a href="https://dev.to/hemanth22"><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/Python.png"></a>
 <a href="https://dev.to/hemanth22"><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/csharp.png"></a>
 
-📊 **Weekly development breakdown**
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+---
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanth22&hide=java,html,css&theme=radical)](https://github.com/hemanth22/github-readme-stats)
+
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemanth22&theme=radical)](https://github.com/hemanth22/github-readme-stats)
+
 
 ![Hemanth BITRA github stats](https://github-readme-stats.vercel.app/api?username=hemanth22&show_icons=true&hide_border=true)
