@@ -8,6 +8,9 @@ __*Welcome to my github profile*__
 <a href="https://hemanth22hemu.wordpress.com/">
   <img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" alt="Hemanth B's Wordpress Profile"/>
 </a>
+<a href="https://hemanthbitra.medium.com/">
+  <img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" alt="Hemanth B's medium Profile"/>
+</a>
 <a href="https://dev.to/hemanth22">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Hemanth B's DEV Profile" height="30" width="30">
 </a>
