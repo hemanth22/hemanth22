@@ -52,13 +52,3 @@ __*Devops tools*__
 __*Coding language:*__  
 
 <a href="https://dev.to/hemanth22"><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/Python.png"></a>
-
-
----
-
-## &#x1f4c8; My GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanth22&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemanth22&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
