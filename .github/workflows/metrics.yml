@@ -3,7 +3,7 @@ name: Metrics
 on:
   # Schedule updates (each hour)
   push:
-    branches: [ main ]
+    branches: [ main, master ]
     
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
