@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 __*Devops tools*__  
 
-<a href="https://hemanth22.github.io/lessonslearnt/#/2"><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/bash.jpg"></a>
+<a href="https://hemanth22.github.io/lessonslearnt/"><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/bash.jpg"></a>
 <a href="http://ec2-34-222-242-67.us-west-2.compute.amazonaws.com/"><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/jenkins.png"></a>
 <a href="https://hub.docker.com/u/bitroid"><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/docker.png"></a>
 <a href="https://galaxy.ansible.com/hemanth22"><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/ansiblesss.png"></a>
