@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 -->  
 
 - 🌱 I’m currently learning open source technologies
-- 🔭 Working in __*Societe Generale Global Solution Center*__
+- 🔭 Working in __*DBS Bank*__
 - 📫 How to reach me: hemanthbitra@live.com  
 
 __*Devops tools*__  
