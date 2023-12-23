@@ -17,11 +17,12 @@ __*Welcome to my github profile*__
 <a href="https://in.linkedin.com/in/hemanthbitra">
   <img alt="Hemanth Bitra LinkdeIN" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
+  
 
 <!--
 **hemanth22/hemanth22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -35,7 +36,9 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning open source technologies
 - 🔭 Working in __*DBS Bank*__
-- 📫 How to reach me: hemanthbitra@live.com  
+- 📫 How to reach me: [hemanthbitra@live.com](mailto:hemanthbitra@live.com)
+- 🌍  I'm based in Hyderabad, India
+- 🖥️  See my portfolio at [bitroid.in](http://bitroid.in)
 
 __*Devops tools*__  
 
