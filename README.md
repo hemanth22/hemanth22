@@ -56,6 +56,8 @@ __*Observability tools*__
 
 <a href="https://www.elastic.co/kibana"><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/kibana.png"></a>
 <a href="https://www.elastic.co/"><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/elasticsearch.png"></a>
+<a href="https://grafana.com/"><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/grafana.svg"></a>
+<a href="https://prometheus.io/"><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/prometheus.svg"></a>  
 
 __*Coding language:*__  
 
