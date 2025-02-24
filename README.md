@@ -43,14 +43,19 @@ Here are some ideas to get you started:
 __*Devops tools*__  
 
 <a href="https://hemanth22.github.io/lessonslearnt/"><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/bash.jpg"></a>
-<a href="http://ec2-34-222-242-67.us-west-2.compute.amazonaws.com/"><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/jenkins.png"></a>
+<a href="https://www.jenkins.io/"><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/jenkins.png"></a>
 <a href="https://hub.docker.com/u/bitroid"><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/docker.png"></a>
 <a href="https://galaxy.ansible.com/hemanth22"><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/ansiblesss.png"></a>
-<a href="https://dev.to/hemanth22"><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/Vagrant.png"></a>
-<a href="https://dev.to/hemanth22"><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/kibana.png"></a>
-<a href="https://dev.to/hemanth22"><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/elasticsearch.png"></a>
+<a href="https://www.vagrantup.com/"><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/Vagrant.png"></a>
+<a href="https://www.elastic.co/kibana"><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/kibana.png"></a>
+<a href="https://www.elastic.co/"><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/elasticsearch.png"></a>
 <a href="https://dev.to/hemanth22"><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/powershell.png"></a>
 <a href="https://www.credly.com/badges/8d975c03-cb2a-454d-9f72-3d5c63e84561/public_url"><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/kubernetes_logo.png"></a>
+
+__*Observability tools*__
+
+<a href="https://www.elastic.co/kibana"><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/kibana.png"></a>
+<a href="https://www.elastic.co/"><img height="50" src="https://raw.githubusercontent.com/hemanth22/Images/master/elasticsearch.png"></a>
 
 __*Coding language:*__  
 
