@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 -->  
 
 - 🌱 I’m currently learning open source technologies
-- 🔭 Working in __*DBS Bank*__
+- 🔭 Working in __*Standard Chartered*__
 - 📫 How to reach me: [hemanthbitra@live.com](mailto:hemanthbitra@live.com)
 - 🌍  I'm based in Hyderabad, India
 - 🖥️  See my portfolio at [bitroid.in](http://bitroid.in)
